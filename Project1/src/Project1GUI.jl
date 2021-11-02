@@ -1,4 +1,4 @@
-function Project1Private()
+function Project1GUIPrivate()
     println("It works!!")
 end
 
